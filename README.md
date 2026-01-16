@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://matt-harrison.com"><img src="https://img.shields.io/badge/Blog-matt--harrison.com-blue?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
   <a href="https://linkedin.com/in/mtharrison"><img src="https://img.shields.io/badge/LinkedIn-mtharrison-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/1277789"><img src="https://img.shields.io/badge/StackOverflow-mtharrison-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/1402929/matt-harrison"><img src="https://img.shields.io/badge/StackOverflow-matt--harrison-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 </p>
 
 ---
