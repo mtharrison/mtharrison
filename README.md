@@ -56,14 +56,10 @@ const matt = {
 ### Publications
 
 <a href="https://www.manning.com/books/hapi-js-in-action">
-  <img src="https://images.manning.com/264/352/resize/book/9/d1cdcca-7310-4a2e-bb31-b22df2713bbf/Harrison-hapi-HI.png" height="180" align="right" alt="hapi.js in Action"/>
+  <img src="https://img.shields.io/badge/Manning-hapi.js_in_Action-E03C31?style=for-the-badge&logo=bookstack&logoColor=white"/>
 </a>
 
-**[hapi.js in Action](https://www.manning.com/books/hapi-js-in-action)** (Manning, 2016)
-
-Learn how to build modern Node.js applications with the hapi.js framework. Covers routing, validation, authentication, caching, and testing with real-world examples.
-
-<br clear="right"/>
+Published author of **hapi.js in Action** (Manning, 2016) — a comprehensive guide to building modern Node.js applications with the hapi.js framework.
 
 ---
 
