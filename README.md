@@ -4,7 +4,6 @@
   <a href="https://matt-harrison.com"><img src="https://img.shields.io/badge/Blog-matt--harrison.com-blue?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
   <a href="https://linkedin.com/in/mtharrison"><img src="https://img.shields.io/badge/LinkedIn-mtharrison-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/1277789"><img src="https://img.shields.io/badge/StackOverflow-mtharrison-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Available-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
@@ -41,52 +40,19 @@ const matt = {
 
 ### Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/mtharrison/wasm-raytracer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mtharrison&repo=wasm-raytracer&theme=tokyonight&hide_border=true"/>
-      </a>
-      <br/>
-      <sub>WebAssembly vs JavaScript raytracing performance comparison</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/mtharrison/inferno.js">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mtharrison&repo=inferno.js&theme=tokyonight&hide_border=true"/>
-      </a>
-      <br/>
-      <sub>Embed Chrome DevTools CPU flame charts anywhere</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/mtharrison/promptscaper">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mtharrison&repo=promptscaper&theme=tokyonight&hide_border=true"/>
-      </a>
-      <br/>
-      <sub>No-code LLM playground for prototyping agents</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/mtharrison/deno-playground">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mtharrison&repo=deno-playground&theme=tokyonight&hide_border=true"/>
-      </a>
-      <br/>
-      <sub>Execute Deno scripts directly in the browser</sub>
-    </td>
-  </tr>
-</table>
+| Project | Description |
+|---------|-------------|
+| [**wasm-raytracer**](https://github.com/mtharrison/wasm-raytracer) | WebAssembly vs JavaScript raytracing performance showdown |
+| [**inferno.js**](https://github.com/mtharrison/inferno.js) | Standalone library for embedding Chrome DevTools flame charts |
+| [**promptscaper**](https://github.com/mtharrison/promptscaper) | Client-only OpenAI playground for prototyping agents without code |
+| [**deno-playground**](https://github.com/mtharrison/deno-playground) | Execute Deno scripts directly in the browser |
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtharrison&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtharrison&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtharrison&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,shell,vim%20script,handlebars&size_weight=0.2&count_weight=0.8"/>
+  <img src="https://ghchart.rshah.org/6366f1/mtharrison" alt="GitHub Contribution Chart"/>
 </p>
 
 ---
