@@ -13,10 +13,13 @@
 ```typescript
 const matt = {
     location: "Manchester, UK",
-    role: "AI Solutions Architect / Engineer",
-    company: "Nearform × McKinsey",
-    passions: ["AI/ML", "Performance Engineering", "Developer Tools"],
-    currentlyExploring: "LLM Agents & Agentic Workflows"
+    role: "AI Solutions Architect",
+    company: "NearForm × McKinsey",
+    experience: "14+ years building software",
+    education: "MS Computer Science (ML) @ Georgia Tech",
+    author: "hapi.js in Action (Manning, 2016)",
+    interests: ["RAG Systems", "LLM Agents", "NLP", "Transformers"],
+    currently: "Building AI-driven assistants & evaluation frameworks"
 };
 ```
 
@@ -31,9 +34,10 @@ const matt = {
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white"/>
 </p>
 
 ---
@@ -42,10 +46,24 @@ const matt = {
 
 | Project | Description |
 |---------|-------------|
-| [**wasm-raytracer**](https://github.com/mtharrison/wasm-raytracer) | WebAssembly vs JavaScript raytracing performance showdown |
-| [**inferno.js**](https://github.com/mtharrison/inferno.js) | Standalone library for embedding Chrome DevTools flame charts |
-| [**promptscaper**](https://github.com/mtharrison/promptscaper) | Client-only OpenAI playground for prototyping agents without code |
-| [**deno-playground**](https://github.com/mtharrison/deno-playground) | Execute Deno scripts directly in the browser |
+| [**ThoughtCoach**](https://thoughtcoach.app) | AI-powered mental wellness companion using generative AI |
+| [**promptscaper**](https://github.com/mtharrison/promptscaper) | No-code playground for prototyping LLM agents |
+| [**wasm-raytracer**](https://github.com/mtharrison/wasm-raytracer) | WebAssembly vs JavaScript performance showdown |
+| [**inferno.js**](https://github.com/mtharrison/inferno.js) | Embed Chrome DevTools CPU flame charts anywhere |
+
+---
+
+### Publications
+
+<a href="https://www.manning.com/books/hapi-js-in-action">
+  <img src="https://images.manning.com/264/352/resize/book/9/d1cdcca-7310-4a2e-bb31-b22df2713bbf/Harrison-hapi-HI.png" height="180" align="right" alt="hapi.js in Action"/>
+</a>
+
+**[hapi.js in Action](https://www.manning.com/books/hapi-js-in-action)** (Manning, 2016)
+
+Learn how to build modern Node.js applications with the hapi.js framework. Covers routing, validation, authentication, caching, and testing with real-world examples.
+
+<br clear="right"/>
 
 ---
 
